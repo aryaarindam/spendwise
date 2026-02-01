@@ -1,7 +1,20 @@
-# Spendwise 
-A clean, modern personal expense tracker with monthly budgeting — built with **Spring Boot + PostgreSQL + React**.
+# Spendwise 💸
+**A production-style personal expense tracker with monthly budgeting and clean UI.**
+
+Built to demonstrate real-world backend and frontend engineering using **Spring Boot, PostgreSQL, and React**.
 
 > Track expenses, set monthly budgets, and instantly see how much you’ve spent vs. what’s left.
+
+---
+
+## Why Spendwise?
+This project was built to simulate real-world product requirements:
+- Month-wise financial tracking (not just CRUD)
+- Budget vs spending reconciliation
+- Clean REST APIs with proper domain modeling
+- UI designed for clarity and usability
+
+It focuses on **practical engineering decisions** rather than demo-only features.
 
 ---
 
@@ -23,6 +36,15 @@ A clean, modern personal expense tracker with monthly budgeting — built with *
 **Frontend**
 - React (Vite)
 - Vanilla CSS (clean UI, recruiter-friendly)
+
+---
+
+## Architecture Overview
+- **Backend:** Spring Boot REST API handling expenses, budgets, and monthly summaries
+- **Database:** PostgreSQL with relational modeling for expenses and budgets
+- **Frontend:** React (Vite) consuming REST APIs and updating UI state in real time
+
+The frontend and backend are cleanly separated and communicate via JSON APIs.
 
 ---
 
