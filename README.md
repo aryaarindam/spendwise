@@ -1,11 +1,11 @@
-# Spendwise 💸
+# Spendwise 
 A clean, modern personal expense tracker with monthly budgeting — built with **Spring Boot + PostgreSQL + React**.
 
 > Track expenses, set monthly budgets, and instantly see how much you’ve spent vs. what’s left.
 
 ---
 
-## ✨ Features
+## Features
 - **Monthly summary dashboard** (Spent / Budget / Remaining)
 - **Set & update monthly budget**
 - **Add expenses** with category + smart title suggestions
@@ -14,7 +14,7 @@ A clean, modern personal expense tracker with monthly budgeting — built with *
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 **Backend**
 - Java 17, Spring Boot
 - Spring Web, Spring Data JPA, Validation
@@ -26,7 +26,7 @@ A clean, modern personal expense tracker with monthly budgeting — built with *
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 > Add your screenshots in `docs/screenshots/`
 
 ### Dashboard
@@ -40,7 +40,7 @@ A clean, modern personal expense tracker with monthly budgeting — built with *
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 Make sure you have:
 - Java 17+
 - Maven
