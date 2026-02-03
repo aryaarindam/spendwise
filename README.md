@@ -101,7 +101,7 @@ Frontend runs on:
 http://localhost:5173
 
 
-### 🔌 API Endpoints (v1)
+###  API Endpoints (v1)
 
 GET /api/summary/monthly/{year}/{month}
 
