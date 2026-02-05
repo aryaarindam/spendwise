@@ -1,5 +1,5 @@
 # Spendwise
-**A production-style personal expense tracker with monthly budgeting and clean UI.**
+**A personal expense tracker that allows users to record expenses, manage monthly budgets, and view summaries using a simple interface.**
 
 Built to demonstrate real-world backend and frontend engineering using **Spring Boot, PostgreSQL, and React**.
 
